@@ -16,7 +16,7 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         <mybatis.version>3.5.2</mybatis.version>
         <guava.version>28.0-jre</guava.version>
-        <spring-mvc.version>5.1.9.RELEASE</spring-mvc.version>
+        <spring-mvc.version>5.2.0.RELEASE</spring-mvc.version>
         <servlet.version>4.0.1</servlet.version>
         <validation.version>2.0.1.Final</validation.version>
     </properties>
